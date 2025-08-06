@@ -32,10 +32,16 @@ Professional with a strong interest in Programming, Photography, and Music field
 <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </div>
 
-  <!-- Most Used Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api username=Arcv0id&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5e17eb&text_color=FFF&border_radius=3&border_color=5e17eb&icon_color=5e17eb&theme=jolly" alt="GitHub stats">
+#
+  <!-- GitHub Stats -->
 
-
+<div style="text-align: left;" align="left">
+  <h3>𝚂𝚝𝚊𝚝𝚜</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arcv0id&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=5e17eb&text_color=ffffff&border_radius=3&border_color=5e17eb&icon_color=5e17eb&theme=jolly" alt="GitHub stats">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcv0id&layout=compact&line_height=10&card_width=290&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&title_color=ffffff&border_radius=3&border_color=5e17eb&theme=jolly" alt="Top Langs">
+  </a>
+</div> 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
