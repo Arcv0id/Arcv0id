@@ -32,26 +32,9 @@ Professional with a strong interest in Programming, Photography, and Music field
 <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </div>
 
-
-<div style="text-align: center;" align="center">
-  <div align="center" style="text-align: center;">
-    
-  <h3 style="color: #5e17eb;">𝚂𝚝𝚊𝚝𝚜</h3>
-  <br>
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arcv0id&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=5e17eb&text_color=FFFFFF&border_radius=3&border_color=5e17eb&icon_color=5e17eb&theme=jolly" 
-    alt="GitHub stats"
-    width="500"
-  >
-  
-  <br><br>
-
   <!-- Most Used Languages -->
-  <a href="https://github.com/mari4souza/github-readme-stats" target="_blank">
-    <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arcv0id&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&bo_
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api username=Arcv0id&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5e17eb&text_color=FFF&border_radius=3&border_color=5e17eb&icon_color=5e17eb&theme=jolly" alt="GitHub stats">
+
 
 
 <picture align="center">
