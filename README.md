@@ -15,8 +15,6 @@ Professional with a strong interest in Programming, Photography, and Music field
 #
 <img align="right" alt="lofigirl" height="190px" src="src/download.gif">
 
-#
-
 <h3 align="left">𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚜</h3>
 
 
