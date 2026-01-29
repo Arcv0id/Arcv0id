@@ -37,7 +37,9 @@ Professional with a strong interest in Programming, Photography, and Music field
 
 <div style="text-align: left;" align="left">
   <h3>𝚂𝚝𝚊𝚝𝚜</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arcv0id&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=5e17eb&text_color=ffffff&border_radius=3&border_color=5e17eb&icon_color=5e17eb&theme=jolly" alt="GitHub stats">
+  <a href="https://github.com/ARCANGEL0/NyxAI">
+    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
+  </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcv0id&layout=compact&line_height=10&card_width=290&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&title_color=ffffff&border_radius=3&border_color=5e17eb&theme=jolly" alt="Top Langs">
   </a>
