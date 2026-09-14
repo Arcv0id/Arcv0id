@@ -37,7 +37,7 @@ Professional with a strong interest in Programming, Photography, and Music field
 
 <div style="text-align: left;" align="left">
   <h3>𝚂𝚝𝚊𝚝𝚜</h3>
-  <img src="https://github-readme-stats.zcy.dev/api?username=Arcv0id&card_width=290&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&title_color=ffffff&border_radius=5&border_color=000000&theme=jolly" alt="Top Langs"/>
+  <img src="https://github-readme-stats.zcy.dev/api?username=Arcv0id&card_width=390&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&title_color=ffffff&border_radius=5&border_color=000000&theme=jolly" alt="Top Langs"/>
 
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=Arcv0id&card_width=290&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&title_color=ffffff&border_radius=5&border_color=000000&theme=jolly" alt="Top Langs" width=276px/>
 </div> 
